@@ -1,0 +1,6 @@
+#id             Name                       Absences         Exam1 Grade      Exam2 grade      Total mark
+202181471       | suhail alhawi            | 9              | 42             | 50             | 92
+202181442       | mohammad ahmed           | 4              | 43             | 32             | 75
+202181443       | mohammad ahmed           | 4              | 43             | 32             | 75
+202181449       | mohammad ahmed           | 4              | 43             | 32             | 75
+202181476       | ahmed mohammad           | 50             | 40             | 20             | 60
